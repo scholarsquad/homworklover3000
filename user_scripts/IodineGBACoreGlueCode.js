@@ -110,7 +110,6 @@ var games = {
     "wario_ware":"Wario Ware Inc",
     "zelda_past":"The Legend of Zelda: A Link to the Past",
     "zelda_minish":"The Legend of Zelda: The Minish Cap",
-    "nes_mario":"Clasic NES: Super Mario Bros.",
     "LEGO_Star_Wars":"LEGO - Star Wars - the Video Game"
 };
 var Iodine = null;
