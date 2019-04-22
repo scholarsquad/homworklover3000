@@ -109,7 +109,8 @@ var games = {
     "warioland4":"Wario Land 4",
     "wario_ware":"Wario Ware Inc",
     "zelda_past":"The Legend of Zelda: A Link to the Past",
-    "zelda_minish":"The Legend of Zelda: The Minish Cap"
+    "zelda_minish":"The Legend of Zelda: The Minish Cap",
+    "nes_mario":"Clasic NES: Super Mario Bros."
 };
 var Iodine = null;
 var Blitter = null;
