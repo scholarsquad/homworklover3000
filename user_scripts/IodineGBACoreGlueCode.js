@@ -48,6 +48,8 @@ var games = {
     "hamtaro_heartbreak":"Hamtaro - Ham-Ham Heartbreak",
     "kirbymirror":"Kirby & The Amazing Mirror",
     "kirbynightmare":"Kirby: Nightmare in Dreamland",
+    "LEGO_Star_Wars":"LEGO - Star Wars",
+    "LEGO_Star_Wars_2":"LEGO - Star Wars 2",
     "mariokart":"Mario Kart: Super Circuit",
     "marioparty":"Mario Party Advance",
     "mariopinball":"Mario Pinball Land",
@@ -110,7 +112,6 @@ var games = {
     "wario_ware":"Wario Ware Inc",
     "zelda_past":"The Legend of Zelda: A Link to the Past",
     "zelda_minish":"The Legend of Zelda: The Minish Cap",
-    "LEGO_Star_Wars":"LEGO - Star Wars - the Video Game"
 };
 var Iodine = null;
 var Blitter = null;
